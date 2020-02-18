@@ -7,3 +7,4 @@ commit with a message: git commit -m "description of commit"
 view the log: git log
 push changes: git push [remotename] [branchname]
 change branch: git checkout <branch>
+
